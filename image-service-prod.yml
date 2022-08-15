@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8888}
+  
+message: se pudo conectar a la configuracion de image service prod
